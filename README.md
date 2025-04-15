@@ -221,23 +221,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </p>
 
-<!-- Featured Projects with Project Cards and Visual Elements -->
-<h2>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50px" height="50px">
-  Featured Projects
-</h2>
-
-<div align="center">
-  <!-- Project 1 -->
-  <a href="https://github.com/Venkat5674/AI-Travel-Planner">
-    <img src="https://i.ibb.co/DfF7465m/image.png" />
-  </a>
-  
-  <!-- Project 2 -->
-  <a href="https://github.com/Venkat5674/Event-Mania">
-    <img src="https://ap-event-mania.web.app/" />
-  </a>
-  
 
 <!-- GitHub Stats with Enhanced Visuals -->
 <h2>
@@ -322,28 +305,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-<!-- Spotify Now Playing with Animation -->
-<h2>
-  <img src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif" width="50px" height="50px">
-  Spotify Now Playing
-</h2>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-  </a>
-</p>
 
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=80" alt="Footer Banner">
 </p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkat5674/Venkat5674/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkat5674/Venkat5674/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Venkat5674/Venkat5674/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
