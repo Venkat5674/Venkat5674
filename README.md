@@ -25,10 +25,10 @@
 
 <img align="right" alt="Developer Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Passionate Full Stack Developer** with expertise in modern web technologies and a strong foundation in **Java** and **Python**. Currently pursuing B.Tech in Computer Science with hands-on experience in building **scalable applications** and contributing to **open-source projects**.
+**Passionate Full Stack Developer** with expertise in modern web technologies and a strong foundation in **Java** and **Python**. B.Tech in Computer Science with hands-on experience in building **scalable applications** and contributing to **open-source projects**.
 
 ### 🎓 **Education & Background**
-- **B.Tech in Computer Science & Engineering** (Current)
+- **B.Tech in Computer Science & Engineering** 
 - **Diploma in Electrical & Electronics Engineering**
 - **Strong foundation** in Data Structures, Algorithms, and System Design
 
@@ -150,6 +150,19 @@
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Digital_Marketing-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Digital Marketing" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Certified_System_Administrator-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="JavaScript Algorithms and Data Structures" />
       </td>
     </tr>
   </table>
