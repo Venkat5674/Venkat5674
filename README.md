@@ -106,7 +106,7 @@
 
 ---
 
-## 📊 GitHub Performance Analytics
+## 📊 GitHub Performance Analytics  📈 Contribution Activity
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=667eea&text_color=333&bg_color=ffffff&theme=default" alt="GitHub Stats" />
@@ -117,15 +117,10 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=compact&hide_border=true&title_color=667eea&text_color=333&bg_color=ffffff&theme=default" alt="Top Languages" />
 </div>
 
-### 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkat5674&theme=default" alt="Contribution Graph" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=667eea&text_color=333&bg_color=ffffff&theme=default" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Venkat5674&theme=default&hide_border=true&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&background=ffffff" alt="GitHub Streak" />
-</div>
+
+
+
 
 
 ---
