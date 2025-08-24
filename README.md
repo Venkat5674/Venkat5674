@@ -155,6 +155,9 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Certified_System_Administrator-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
       </td>
+<td align="center">
+        <img src="https://img.shields.io/badge/Certified_Application_Developer-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
+      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design" />
       </td>
