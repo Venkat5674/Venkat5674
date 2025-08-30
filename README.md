@@ -133,44 +133,28 @@
 
 ## 🎖️ Professional Certifications
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Java_Full_Stack-Wipro_TalentNext-FF6B35?style=for-the-badge&logo=wipro&logoColor=white" alt="Java Full Stack" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Programming_in_Java-NPTEL-0056D2?style=for-the-badge&logo=java&logoColor=white" alt="Programming in Java" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Java_Software_Developer-Infosys-0052CC?style=for-the-badge&logo=infosys&logoColor=white" alt="Java Developer" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Digital_Marketing-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Digital Marketing" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Certified_System_Administrator-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
-      </td>
-<td align="center">
-        <img src="https://img.shields.io/badge/Certified_Application_Developer-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="JavaScript Algorithms and Data Structures" />
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="left">
+
+## 🖥️ Technical Certifications
+[![Java Full Stack](https://img.shields.io/badge/Java_Full_Stack-Wipro_TalentNext-FF6B35?style=for-the-badge&logo=wipro&logoColor=white)](#)
+[![Programming in Java](https://img.shields.io/badge/Programming_in_Java-NPTEL-0056D2?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Java Software Developer](https://img.shields.io/badge/Java_Software_Developer-Infosys-0052CC?style=for-the-badge&logo=infosys&logoColor=white)](#)
 
 ---
+
+### 🌐 Web & Cloud Certifications
+[![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
+[![JavaScript Algorithms](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
+[![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
+
+---
+
+### ⚙️ ServiceNow Certifications
+[![ServiceNow CSA](https://img.shields.io/badge/Certified_System_Administrator-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
+[![ServiceNow CAD](https://img.shields.io/badge/Certified_Application_Developer-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
+
+</div>
+
 
 ## 📞 Let's Connect & Collaborate
 
