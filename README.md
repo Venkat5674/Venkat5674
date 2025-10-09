@@ -153,6 +153,12 @@
 [![ServiceNow CSA](https://img.shields.io/badge/Certified_System_Administrator-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
 [![ServiceNow CAD](https://img.shields.io/badge/Certified_Application_Developer-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
 
+
+### ☁️ Oracle Cloud Infrastructure (OCI) Certifications
+
+[![Oracle OCI AI Foundational](https://img.shields.io/badge/OCI_AI_Foundational_Associate-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1Z6vxi7xFVgOwotZOEd6Bus1rPuUeWTd8/view?usp=sharing)
+[![Oracle OCI Gen AI](https://img.shields.io/badge/OCI_Generative_AI_Professional-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1cRK6B_g5b-tj9TQ4Hc-WNWSO9W-JkXF3/view?usp=sharing)
+
 </div>
 
 
