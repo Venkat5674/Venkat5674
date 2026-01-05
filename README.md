@@ -106,19 +106,46 @@
 
 ---
 
-## 📊 GitHub Performance Analytics  📈 Contribution Activity
+## 📊 GitHub Performance Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=667eea&text_color=333&bg_color=ffffff&theme=default" alt="GitHub Stats" />
- 
+
+### 📈 Contribution Activity
+
+<!-- GitHub Stats Card -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" alt="Venkat's GitHub Stats" />
+
+<!-- GitHub Streak Stats -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat5674&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat5674&theme=default&hide_border=true&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&background=ffffff" alt="GitHub Streak" />
+
+<!-- Top Languages Card -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=repo-to-exclude" alt="Top Languages" />
+
+<!-- Alternative: Wakatime Stats if you use it -->
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Venkat5674&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" /> -->
+
+<!-- GitHub Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat5674&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" alt="Contribution Graph" />
+
 </div>
 
+<!-- Optional: GitHub Trophies -->
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=compact&hide_border=true&title_color=667eea&text_color=333&bg_color=ffffff&theme=default" alt="Top Languages" />
+  
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Venkat5674&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+</div>
+
+<!-- Optional: Profile Views Counter -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Venkat5674&color=58A6FF&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 
