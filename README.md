@@ -1,42 +1,188 @@
 # 💫 Venkatesh Pamudurti | Full Stack Developer
 
-<!-- Dynamic Header with Professional Animation -->
+<!-- Dynamic Header -->
 <p align="center">
   <a href="https://github.com/Venkat5674">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Venkatesh%20Pamudurti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Innovation%20Driven&descAlignY=55&descAlign=62" alt="Professional Header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Venkatesh%20Pamudurti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Innovation%20Enthusiast&descAlignY=52&descSize=18" alt="Header">
   </a>
 </p>
 
-<!-- Professional Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=667eea&center=true&vCenter=true&random=false&width=800&height=60&lines=Full+Stack+Developer+%7C+Java+%26+Python+Expert;Building+Scalable+Web+Applications;Open+Source+Contributor+%7C+Problem+Solver;Ready+to+Drive+Innovation+%F0%9F%9A%80" alt="Professional Typing Animation" />
-</div>
+<!-- Dynamic Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Full+Stack+Developer+%7C+Java+%26+Python+Expert;Building+Scalable+%26+Innovative+Solutions;Open+Source+Contributor+%7C+Continuous+Learner;Ready+to+Transform+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<!-- Professional Metrics -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venkat5674&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Venkat5674?style=flat-square&logo=github&color=667eea&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/Available%20for-Hire-00C851?style=flat-square&logo=handshake&logoColor=white" alt="Available for Hire" />
-</div>
+<!-- Badges & Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venkat5674&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Venkat5674?style=for-the-badge&logo=github&color=3b82f6&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00C851?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Status" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
+</p>
 
 ---
 
-## 🎯 Professional Summary
+## 🚀 About Me
 
-<img align="right" alt="Developer Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Passionate Full Stack Developer** with expertise in modern web technologies and a strong foundation in **Java** and **Python**. B.Tech in Computer Science with hands-on experience in building **scalable applications** and contributing to **open-source projects**.
+```javascript
+const venkatesh = {
+    role: "Full Stack Developer",
+    education: {
+        degree: "B.Tech in CSE",
+        background: "Diploma in EEE"
+    },
+    expertise: ["Java", "Python", "React", "Node.js"],
+    currentFocus: [
+        "Advanced React Patterns",
+        "Data Structures & Algorithms",
+        "Machine Learning Integration",
+        "Cloud-Native Development"
+    ],
+    funFact: "I turn coffee into code ☕️➡️💻",
+    askMeAbout: ["Web Dev", "System Design", "Open Source"],
+    availableFor: "Full-time opportunities & Collaborations"
+};
+```
 
-### 🎓 **Education & Background**
-- **B.Tech in Computer Science & Engineering** 
-- **Diploma in Electrical & Electronics Engineering**
-- **Strong foundation** in Data Structures, Algorithms, and System Design
+### 🎯 Quick Highlights
+- 🎓 **B.Tech in Computer Science** with strong fundamentals
+- 💼 **Full Stack Developer** specializing in modern web technologies
+- 🌟 **Open Source Enthusiast** contributing to community projects
+- 🚀 **Problem Solver** with focus on scalable solutions
+- 📚 **Continuous Learner** staying updated with latest tech trends
 
-### 🔥 **What I'm Currently Working On**
-- **Advanced React.js & Node.js** development patterns
-- **Data Structures & Algorithms** mastery in Java
-- **Machine Learning** integration with web applications
-- **Cloud-native** application development
+---
+
+## 🛠️ Tech Stack & Skills
+
+<details open>
+<summary><b>👨‍💻 Programming Languages</b></summary>
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Technologies</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Statistics & Analytics
+
+<div align="center">
+
+### 📈 Contribution Overview
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat5674&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
+
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&exclude_repo=repo-to-exclude&card_width=400" alt="Top Languages"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=donut&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages Donut"/>
+
+</div>
+
+### 📊 Detailed Language Statistics
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkat5674&theme=github_dark" alt="Profile Summary"/>
+
+</div>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkat5674&theme=github_dark" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkat5674&theme=github_dark" alt="Most Commit Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Venkat5674&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+
+</div>
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat5674&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&height=300&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+
+</div>
+
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Venkat5674&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+
+</div>
+
+### 🎯 GitHub Metrics
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/Venkat5674?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
+
+</div>
 
 ---
 
@@ -44,180 +190,125 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **🧮 Grade Calculator** | Smart academic grade calculator with intuitive UI | React, JavaScript, CSS | [View Live](https://grade-calco.netlify.app) |
-| **🖼️ Aura Gallery** | Modern image gallery with advanced filtering | HTML5, CSS3, JavaScript | [View Live](https://auragallery.netlify.app) |
-| **📋 TaskSphere** | Comprehensive task management solution | React, Local Storage, Bootstrap | [View Live](https://tasksphere-509.netlify.app) |
-| **💻 HackHub** | Developer resource hub with tools & utilities | React, API Integration | [View Live](https://hackhub.netlify.app) |
-| **📝 Markdown Editor** | Real-time markdown editor with live preview | React, Markdown Parser | [View Live](https://markdown-editor-venkatesh-509.netlify.app) |
-| **₿ Crypto Tracker** | Real-time cryptocurrency tracking dashboard | React, API Integration, Charts | [View Live](https://live-crypto-tracker-venkat.netlify.app) |
+| 🎯 Project | 📝 Description | 💻 Tech Stack | 🔗 Live Demo | ⭐ Stars |
+|-----------|---------------|--------------|-------------|---------|
+| **Grade Calculator** | Smart academic grade calculator with intuitive UI | React, JavaScript, CSS | [View](https://grade-calco.netlify.app) | ![](https://img.shields.io/github/stars/Venkat5674/grade-calculator?style=social) |
+| **Aura Gallery** | Modern image gallery with advanced filtering | HTML5, CSS3, JavaScript | [View](https://auragallery.netlify.app) | ![](https://img.shields.io/github/stars/Venkat5674/aura-gallery?style=social) |
+| **TaskSphere** | Comprehensive task management solution | React, Bootstrap | [View](https://tasksphere-509.netlify.app) | ![](https://img.shields.io/github/stars/Venkat5674/tasksphere?style=social) |
+| **HackHub** | Developer resource hub with tools & utilities | React, API Integration | [View](https://hackhub.netlify.app) | ![](https://img.shields.io/github/stars/Venkat5674/hackhub?style=social) |
+| **Markdown Editor** | Real-time markdown editor with live preview | React, Markdown Parser | [View](https://markdown-editor-venkatesh-509.netlify.app) | ![](https://img.shields.io/github/stars/Venkat5674/markdown-editor?style=social) |
+| **Crypto Tracker** | Real-time cryptocurrency tracking dashboard | React, Charts, API | [View](https://live-crypto-tracker-venkat.netlify.app) | ![](https://img.shields.io/github/stars/Venkat5674/crypto-tracker?style=social) |
 
 </div>
 
 ---
 
-## 💼 Technical Expertise
+## 🎖️ Certifications & Achievements
 
-<details open>
-<summary><strong>🔧 Programming Languages</strong></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
-</details>
+### 💼 Professional Certifications
 
-<details open>
-<summary><strong>🎨 Frontend Development</strong></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details open>
-<summary><strong>⚙️ Backend Development</strong></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</div>
-</details>
-
-<details open>
-<summary><strong>🗄️ Databases & Cloud</strong></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</div>
-</details>
-
----
-
-## 📊 GitHub Performance Analytics
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-<!-- GitHub Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" alt="Venkat's GitHub Stats" />
-
-<!-- GitHub Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat5674&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<!-- Top Languages Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=repo-to-exclude" alt="Top Languages" />
-
-<!-- Alternative: Wakatime Stats if you use it -->
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Venkat5674&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" /> -->
-
-<!-- GitHub Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat5674&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" alt="Contribution Graph" />
-
-</div>
-
-<!-- Optional: GitHub Trophies -->
-<div align="center">
-  
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Venkat5674&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-</div>
-
-<!-- Optional: Profile Views Counter -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Venkat5674&color=58A6FF&style=for-the-badge&label=Profile+Views)
-
-</div>
-
-
----
-
-## 🏆 Professional Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Venkat5674&theme=flat&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Achievements" />
-</div>
-
----
-
-## 🎖️ Professional Certifications
-
-<div align="left">
-
-## 🖥️ Technical Certifications
+#### 🖥️ Development Certifications
 [![Java Full Stack](https://img.shields.io/badge/Java_Full_Stack-Wipro_TalentNext-FF6B35?style=for-the-badge&logo=wipro&logoColor=white)](#)
-[![Programming in Java](https://img.shields.io/badge/Programming_in_Java-NPTEL-0056D2?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Java Software Developer](https://img.shields.io/badge/Java_Software_Developer-Infosys-0052CC?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![Programming Java](https://img.shields.io/badge/Programming_in_Java-NPTEL-0056D2?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Java Developer](https://img.shields.io/badge/Java_Software_Developer-Infosys-0052CC?style=for-the-badge&logo=infosys&logoColor=white)](#)
+
+#### 🌐 Web Development
+[![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript_Algorithms-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ Cloud & ServiceNow
+[![OCI AI](https://img.shields.io/badge/OCI_AI_Foundational-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1Z6vxi7xFVgOwotZOEd6Bus1rPuUeWTd8/view?usp=sharing)
+[![OCI Gen AI](https://img.shields.io/badge/OCI_Gen_AI_Professional-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1cRK6B_g5b-tj9TQ4Hc-WNWSO9W-JkXF3/view?usp=sharing)
+[![ServiceNow CSA](https://img.shields.io/badge/ServiceNow_CSA-Certified-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
+[![ServiceNow CAD](https://img.shields.io/badge/ServiceNow_CAD-Certified-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Web & Cloud Certifications
-[![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
-[![JavaScript Algorithms](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
-[![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
-
----
-
-### ⚙️ ServiceNow Certifications
-[![ServiceNow CSA](https://img.shields.io/badge/Certified_System_Administrator-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
-[![ServiceNow CAD](https://img.shields.io/badge/Certified_Application_Developer-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](#)
-
-
-### ☁️ Oracle Cloud Infrastructure (OCI) Certifications
-
-[![Oracle OCI AI Foundational](https://img.shields.io/badge/OCI_AI_Foundational_Associate-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1Z6vxi7xFVgOwotZOEd6Bus1rPuUeWTd8/view?usp=sharing)
-[![Oracle OCI Gen AI](https://img.shields.io/badge/OCI_Generative_AI_Professional-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1cRK6B_g5b-tj9TQ4Hc-WNWSO9W-JkXF3/view?usp=sharing)
-
-</div>
-
-
-## 📞 Let's Connect & Collaborate
+## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/venkatesh-pamudurti-2a134a252" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:22jr5a0509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Venkat5674" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatesh-pamudurti-2a134a252)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22jr5a0509@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkat5674)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+### 💬 Let's Collaborate!
+
+```yaml
+interests:
+  - Open Source Contribution
+  - Full Stack Development
+  - System Design & Architecture
+  - Machine Learning Integration
+  - Cloud Native Applications
+
+looking_for:
+  - Full-time Opportunities
+  - Interesting Projects
+  - Tech Collaborations
+  - Mentorship Opportunities
+```
+
+---
+
+## 💡 Daily Developer Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
 </div>
 
 ---
 
-## 💡 Daily Developer Inspiration
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Developer Quote" />
+
+![Snake animation](https://raw.githubusercontent.com/Venkat5674/Venkat5674/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📊 Additional Analytics
+
+<div align="center">
+
+### 🔥 Commit Heatmap
+![](https://ghchart.rshah.org/3b82f6/Venkat5674)
+
+### ⏰ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>🚀 Ready to contribute to your next big project!</h3>
-  <p><em>Building the future, one line of code at a time.</em></p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling&fontColor=ffffff" alt="Footer" />
-</div>
 
+### 🌟 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**✨ "Building the future, one commit at a time." ✨**
+
+<img src="https://komarev.com/ghpvc/?username=Venkat5674&style=for-the-badge&color=3b82f6" alt="Profile Views"/>
+
+</div>
