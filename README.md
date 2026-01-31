@@ -1,4 +1,4 @@
-# 💫 Venkatesh Pamudurti | Full Stack Developer
+# 💫 Venkatesh Pamudurti | Full Stack Developer | Machine Learning Engineer
 
 <!-- Dynamic Header -->
 <p align="center">
