@@ -1,9 +1,9 @@
-# 💫 Venkatesh Pamudurti | Full Stack Developer | Machine Learning Engineer
+# 💫 Venkatesh Pamudurti | Full Stack Developer | Java Backend Developer | MERN Developer.
 
 <!-- Dynamic Header -->
 <p align="center">
   <a href="https://github.com/Venkat5674">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Venkatesh%20Pamudurti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Innovation%20Enthusiast&descAlignY=52&descSize=18" alt="Header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Venkatesh%20Pamudurti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=52&descSize=18" alt="Header">
   </a>
 </p>
 
