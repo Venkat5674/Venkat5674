@@ -9,19 +9,43 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Full+Stack+Developer+%7C+Java+%26+Python+Expert;Building+Scalable+%26+Innovative+Solutions;Open+Source+Contributor+%7C+Continuous+Learner;Ready+to+Transform+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Full+Stack+Developer;Java+Backend+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Backend+%26+REST+API+Developer" alt="Typing SVG" />
 </p>
 
-<!-- Badges & Metrics -->
+<!-- Connect & Profiles -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venkat5674&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Venkat5674?style=for-the-badge&logo=github&color=3b82f6&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00C851?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Status" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
+
+  <!-- Email -->
+  <a href="mailto:pamudurtivenkatesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <!-- Mobile -->
+  <a href="tel:+919989488370">
+    <img src="https://img.shields.io/badge/Mobile-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://venkatesh-pamudurti-port-ecb3d.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/venkatesh-pamudurti-2a134a252">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Venkat5674">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/venkatesh_pamudurti/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
 </p>
-
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
