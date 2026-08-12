@@ -17,32 +17,32 @@
 
   <!-- Email -->
   <a href="mailto:pamudurtivenkatesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <!-- Mobile -->
   <a href="tel:+919989488370">
-    <img src="https://img.shields.io/badge/Mobile-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile"/>
+    <img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile"/>
   </a>
 
   <!-- Portfolio -->
   <a href="https://venkatesh-pamudurti-port-ecb3d.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/venkatesh-pamudurti-2a134a252">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/Venkat5674">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/venkatesh_pamudurti/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
 </p>
