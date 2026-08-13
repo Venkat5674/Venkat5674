@@ -224,21 +224,23 @@ End-to-end applications connecting frontend, backend and databases.
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
+### 📈 GitHub Stats
 
-</div> <!-- ============================================= --> <!-- 📈 CORE STATS --> <!-- ============================================= --> <div align="center"> <table> <tr> <td width="50%" valign="top"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=12&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/> </td> <td width="50%" valign="top"> <img width="100%" src="https://streak-stats.demolab.com/?user=Venkat5674&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=12" alt="GitHub Streak"/> </td> </tr> </table> </div> <!-- ============================================= --> <!-- 💻 LANGUAGES --> <!-- ============================================= --> <div align="center">
-💻  Most Used Languages
-<table> <tr> <td width="55%" valign="top"> <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&border_radius=12" alt="Top Languages"/> </td> <td width="45%" valign="top"> <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat5674&layout=donut&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=12" alt="Top Languages Donut"/> </td> </tr> </table> </div> <!-- ============================================= --> <!-- 📊 PROFILE SUMMARY --> <!-- ============================================= --> <div align="center">
-📊  Profile Summary
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkat5674&theme=github_dark" alt="Profile Summary"/> <br/> <table> <tr> <td width="33%" align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkat5674&theme=github_dark" alt="Repos per Language"/> </td> <td width="33%" align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkat5674&theme=github_dark" alt="Most Commit Language"/> </td> <td width="33%" align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Venkat5674&theme=github_dark&utcOffset=5.5" alt="Productive Time"/> </td> </tr> </table> </div> <!-- ============================================= --> <!-- 📈 ACTIVITY GRAPH --> <!-- ============================================= --> <div align="center">
-📈  Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat5674&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&height=300&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/> </div> <!-- ============================================= --> <!-- 🏆 TROPHIES --> <!-- ============================================= --> <div align="center">
-🏆  Achievements & Trophies
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Venkat5674&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/> </div> <!-- ============================================= --> <!-- 🎯 DETAILED METRICS (collapsible) --> <!-- ============================================= --> <div align="center">
-🎯  Detailed Metrics
-<details> <summary><b>Click to expand full achievement breakdown</b></summary> <br/> <img width="100%" src="https://metrics.lecoq.io/Venkat5674?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/> </details> </div> <div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkat5674&show_icons=true&hide_border=true&theme=react&include_all_commits=true" alt="Venkatesh GitHub Stats"/>
 
+<img width="49%" src="https://streak-stats.demolab.com/?user=Venkat5674&theme=react&hide_border=true" alt="Venkatesh GitHub Streak"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat5674&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&height=300" alt="Venkatesh Contribution Activity"/>
 
 </div>
 
