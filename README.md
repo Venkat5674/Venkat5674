@@ -222,7 +222,8 @@ End-to-end applications connecting frontend, backend and databases.
 ### 🏆 Event Mania
 **College Event Management Platform**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 A role-based full-stack platform that streamlines event creation, registration, approval, and administration for colleges.
 
@@ -298,30 +299,52 @@ An AI-powered document processing app that extracts structured information from 
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
+  
+### 📅 Daily Flow AI
 
-### 💬 ConversAI
-**AI Conversational Application**
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-FF6F61?style=flat-square&logo=openai&logoColor=white"/>
-
-An AI-powered conversational application combining a React frontend with a Python backend and locally hosted language models.
-
-- 🤖 Conversational AI interface
-- 🧠 LLM-powered responses using Ollama
-- ⚛️ Interactive React frontend
-- 🔌 Frontend-backend integration
-- 💻 AI application development and experimentation
+**AI-Powered Daily Work Tracker**
+ 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+ 
+An AI-assisted productivity app that helps track daily tasks, work sessions, and progress, turning scattered activity into a clear daily flow.
+ 
+- ✅ Create, organize, and track daily tasks
+- 🤖 AI-assisted task planning and prioritization
+- ⏱️ Time and productivity tracking
+- 📊 Daily and weekly progress dashboards
+- 🔔 Reminders and status updates
+- 📱 Responsive interface for daily use
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Source](https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
-
+ 
 </td>
 <td width="50%" valign="top">
+  
+### 🧠 Mind AI
 
+**AI-Based Skill Learning Platform**
+ 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+ 
+An AI-powered learning platform that generates personalized skill-building paths and helps learners track progress toward mastering new skills.
+ 
+- 🎯 Personalized, AI-generated learning paths
+- 🧩 Skill breakdown into structured milestones
+- 🤖 AI-powered explanations and recommendations
+- 📈 Progress tracking across skills
+- 💬 Interactive Q&amp;A for learning support
+- 📱 Responsive learner-focused interface
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Source](https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
+ 
 </td>
 </tr>
+ 
 </table>
 
 ---
