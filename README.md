@@ -276,7 +276,7 @@ A full-stack backend system for managing bus routes, seat booking, and ticket re
 - 🗄️ SQL-backed relational data modeling
 - 🔌 RESTful APIs for booking operations
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://leetcode.com/problems/smallest-stable-index-ii/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bus-reservation-system-mxoi.onrender.com/)
 [![Source](https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
 </td>
 <td width="50%" valign="top">
