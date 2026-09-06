@@ -245,16 +245,18 @@ A role-based full-stack platform that streamlines event creation, registration, 
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 
-A backend application connecting AI assistants with shopping-list operations through the Model Context Protocol.
+A backend application connecting AI assistants with task-list operations through the Model Context Protocol.
 
 - ⚙️ Backend services built with Java &amp; Spring Boot
 - 🤖 Integrated Spring AI and Model Context Protocol
-- 🛒 Add, view, and remove shopping-list items
+- 🛒 Add, view, and remove task-list items
 - 💾 Persistent session-based data handling
 - 🔌 Tools designed for AI-assistant interaction
 - 🧩 RESTful backend architecture
 
-[![Source](https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://task-mcp-server.onrender.com/mcp)
+[![Source](https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkat5674/task-mcp-server)
+
 
 </td>
 </tr>
